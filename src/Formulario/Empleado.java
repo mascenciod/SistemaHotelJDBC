@@ -19,7 +19,7 @@ import java.util.logging.Logger;
 public class Empleado extends javax.swing.JFrame {
      CreateConection conexionPostgres=new CreateConection();
      Connection con;
-
+//hola mundo
    
     public Empleado() throws SQLException {
         initComponents();
